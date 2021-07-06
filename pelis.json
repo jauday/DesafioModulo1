@@ -1,0 +1,53 @@
+
+ [
+  {
+    "title": "Pulp Fiction",
+    "director" : "Quentin Tarantino",
+    "rating": 8,
+    "year": 1994,
+    "tags": ["drama", "crime", "favorita"]
+  },
+  {
+    "title": "Back to the future",
+    "director" : "Robert Zemeckis",
+    "rating": 8,
+    "year": 1985,
+    "tags": ["comedy", "sci-fi"]
+  },
+  {
+    "title": "The Avengers",
+    "director" : "Joss Whedon ",
+    "rating": 7,
+    "year": 2012,
+    "tags": ["action", "sci-fi", "favorita"]
+  },
+  {
+    "title": "El Padrino",
+    "director" : "Francis Ford Coppola",
+    "rating": 9,
+    "year": 1972,
+    "tags": ["drama", "crime"]
+  },
+  {
+    "title": "Joker",
+    "director" : "Todd Phillips",
+    "rating": 6,
+    "year": 2019,
+    "tags": ["drama", "thriller"]
+  },
+  {
+    "title": "Jurassic Park",
+    "director" : "Steven Spielberg",
+    "rating": 8,
+    "year": 1985,
+    "tags": ["adventure", "sci-fi" , "action"]
+  },
+  {
+    "title": "Interestelar",
+    "director" : "Christopher Nolan",
+    "rating": 9,
+    "year": 2014,
+    "tags": ["sci-fi","adventure"]
+  }
+
+]
